@@ -1,1 +1,3 @@
 Hello from txt file
+
+This line is from another computer
